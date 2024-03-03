@@ -1,0 +1,546 @@
+City,Month,Year,Decibel_Level,Traffic_Density,Green_Space_Area,Air_Quality_Index,Happiness_Score,Cost_of_Living_Index,Healthcare_Index
+New York,January,2024,70,High,35,40,6.5,100,80
+Los Angeles,January,2024,65,Medium,40,50,6.8,90,75
+Chicago,January,2024,60,Medium,30,55,7.0,85,70
+London,January,2024,55,High,50,60,7.2,110,85
+Paris,January,2024,60,High,45,65,6.9,95,80
+Berlin,January,2024,50,Low,55,35,7.5,80,85
+Tokyo,January,2024,65,High,30,70,6.0,120,90
+Seoul,January,2024,70,High,25,75,5.8,105,75
+Mumbai,January,2024,80,Very High,15,80,4.5,70,60
+Sydney,January,2024,55,Low,60,30,7.8,115,88
+Istanbul,February,2024,75,High,45,85,6.8,75,70
+Rio de Janeiro,February,2024,65,Medium,50,55,6.5,80,75
+Toronto,February,2024,60,Medium,55,40,7.1,95,85
+Mexico City,February,2024,70,Very High,35,90,5.2,65,60
+Cape Town,February,2024,55,Low,60,45,7.6,70,80
+Bangkok,February,2024,80,High,25,110,4.0,50,55
+Buenos Aires,February,2024,65,High,40,60,6.1,60,75
+Amsterdam,February,2024,50,Low,75,50,7.9,105,90
+Cairo,February,2024,75,Very High,20,115,3.5,55,65
+Moscow,February,2024,60,High,30,80,5.8,70,80
+Singapore,March,2024,65,High,45,60,7.0,125,95
+Dubai,March,2024,70,Medium,35,120,6.0,110,85
+Hong Kong,March,2024,75,High,25,100,5.5,130,90
+Barcelona,March,2024,60,Medium,65,35,7.7,90,85
+Lisbon,March,2024,55,Low,70,40,7.8,75,82
+Melbourne,March,2024,55,Low,60,45,7.9,115,90
+Auckland,March,2024,50,Low,80,35,8.1,100,95
+Rome,March,2024,60,High,40,70,6.7,85,80
+Athens,March,2024,65,Medium,45,75,6.2,70,75
+Vienna,March,2024,55,Low,70,30,8.2,95,95
+Dublin,April,2024,60,Medium,55,40,7.0,105,85
+Copenhagen,April,2024,50,Low,75,35,8.3,110,98
+Stockholm,April,2024,55,Low,80,30,8.0,100,97
+Oslo,April,2024,50,Low,85,25,8.5,115,99
+Helsinki,April,2024,55,Low,90,20,8.4,90,95
+Prague,April,2024,60,Medium,50,65,7.3,80,85
+Budapest,April,2024,65,Medium,45,70,6.8,75,80
+Warsaw,April,2024,60,Medium,40,75,6.7,70,82
+Sofia,April,2024,70,High,35,80,6.0,60,75
+Belgrade,April,2024,75,High,30,85,5.5,55,70
+São Paulo,May,2024,70,High,40,95,5.0,65,75
+Lima,May,2024,75,Very High,25,100,4.2,55,60
+Santiago,May,2024,65,High,35,105,5.5,70,70
+Bogota,May,2024,70,High,30,110,5.0,60,65
+Caracas,May,2024,75,Very High,20,115,3.0,50,55
+Quito,May,2024,65,High,25,120,4.5,55,60
+Panama City,May,2024,70,Medium,30,125,5.8,60,65
+Kingston,May,2024,75,High,25,130,5.5,65,70
+Havana,May,2024,65,Medium,35,135,6.0,50,60
+Santo Domingo,May,2024,70,High,30,140,5.5,55,65
+San Juan,June,2024,75,High,25,145,6.0,70,70
+Manila,June,2024,80,Very High,20,150,4.5,45,55
+Jakarta,June,2024,80,Very High,15,155,4.0,40,50
+Kuala Lumpur,June,2024,75,High,25,160,5.2,55,60
+Taipei,June,2024,70,High,30,165,5.8,75,70
+Shanghai,June,2024,75,Very High,20,170,5.0,80,75
+Beijing,June,2024,80,Very High,15,175,4.5,85,70
+New Delhi,June,2024,85,Very High,10,180,3.5,60,55
+Tehran,June,2024,80,Very High,15,185,3.0,45,50
+Karachi,June,2024,85,Very High,10,190,3.0,40,45
+Dhaka,June,2024,90,Very High,5,195,2.5,35,40
+Colombo,July,2024,75,High,25,200,5.5,45,60
+Islamabad,July,2024,80,Very High,20,205,3.5,40,55
+Kathmandu,July,2024,75,High,25,210,4.5,35,50
+Yangon,July,2024,80,Very High,20,215,3.5,30,45
+Hanoi,July,2024,85,Very High,15,220,3.0,35,40
+Phnom Penh,July,2024,80,Very High,10,225,2.5,30,35
+Vientiane,July,2024,75,High,15,230,4.0,25,40
+Bangalore,July,2024,85,Very High,10,235,3.5,45,55
+Ho Chi Minh City,July,2024,90,Very High,5,240,2.8,40,50
+Jakarta,August,2024,85,Very High,10,245,3.0,35,45
+Perth,August,2024,60,Low,60,50,7.7,110,89
+Adelaide,August,2024,55,Low,65,45,7.8,105,90
+Brisbane,August,2024,60,Low,70,40,7.9,100,91
+Canberra,August,2024,55,Low,75,35,8.0,95,92
+Wellington,August,2024,50,Low,80,30,8.1,90,93
+Christchurch,August,2024,55,Low,85,25,8.2,85,94
+Dunedin,August,2024,50,Low,90,20,8.3,80,95
+Queenstown,August,2024,55,Low,95,15,8.4,75,96
+Nelson,August,2024,50,Low,100,10,8.5,70,97
+Napier,August,2024,55,Low,105,5,8.6,65,98
+Hamilton,September,2024,60,Medium,110,35,8.2,60,95
+Tauranga,September,2024,55,Low,115,30,8.3,55,96
+Rotorua,September,2024,50,Low,120,25,8.4,50,97
+Palmerston North,September,2024,55,Low,125,20,8.5,45,98
+New Plymouth,September,2024,60,Medium,130,35,8.1,40,95
+Lower Hutt,September,2024,55,Low,135,30,8.2,35,96
+Napier,September,2024,50,Low,140,25,8.3,30,97
+Gisborne,September,2024,55,Low,145,20,8.4,25,98
+Kawerau,September,2024,60,Medium,150,35,8.0,20,95
+Putaruru,September,2024,55,Low,155,30,8.1,25,96
+Taupo,October,2024,50,Low,160,25,8.2,20,97
+Tokoroa,October,2024,55,Low,165,20,8.3,25,98
+Te Kuiti,October,2024,60,Medium,170,35,7.9,20,95
+Otorohanga,October,2024,55,Low,175,30,8.0,25,96
+Te Awamutu,October,2024,50,Low,180,25,8.1,20,97
+Cambridge,October,2024,55,Low,185,20,7.8,25,98
+Matamata,October,2024,60,Medium,190,35,7.6,20,95
+Te Aroha,October,2024,55,Low,195,30,7.7,25,96
+Paeroa,October,2024,50,Low,200,25,7.8,20,97
+Waihi,November,2024,55,Low,205,20,7.5,25,98
+Whangamata,November,2024,60,Medium,210,35,7.3,20,95
+Tairua,November,2024,55,Low,215,30,7.4,25,96
+Whitianga,November,2024,50,Low,220,25,7.5,20,97
+Coromandel,November,2024,55,Low,225,20,7.2,25,98
+Whangaparaoa,November,2024,60,Medium,230,35,7.0,20,95
+Orewa,November,2024,55,Low,235,30,7.1,25,96
+Warkworth,November,2024,50,Low,240,25,6.8,20,97
+Matakana,December,2024,55,Low,245,20,6.5,25,98
+Leigh,December,2024,60,Medium,250,35,6.2,20,95
+Wellsford,December,2024,55,Low,255,30,6.0,25,96
+Mangawhai,December,2024,50,Low,260,25,5.8,20,97
+Te Hana,December,2024,55,Low,265,20,5.5,25,98
+Waipu,December,2024,60,Medium,270,35,5.2,20,95
+Ruakaka,December,2024,55,Low,275,30,5.0,25,96
+Whangarei,December,2024,50,Low,280,25,4.8,20,97
+Dargaville,December,2024,55,Low,285,20,4.5,25,98
+Kaitaia,January,2025,60,Medium,290,35,4.2,20,95
+Kaikohe,January,2025,55,Low,295,30,4.0,25,96
+Kerikeri,January,2025,50,Low,300,25,3.8,20,97
+Paihia,January,2025,55,Low,305,20,3.5,25,98
+Russell,January,2025,60,Medium,310,35,3.2,20,95
+Opua,January,2025,55,Low,315,30,3.0,25,96
+Kohukohu,January,2025,50,Low,320,25,2.8,20,97
+Horeke,January,2025,55,Low,325,20,2.5,25,98
+Rawene,January,2025,60,Medium,330,35,2.2,20,95
+Omapere,February,2025,55,Low,335,30,2.0,25,96
+Opononi,February,2025,50,Low,340,25,1.8,20,97
+Waimamaku,February,2025,55,Low,345,20,1.5,25,98
+Waipoua,February,2025,60,Medium,350,35,1.2,20,95
+Aranga,February,2025,55,Low,355,30,1.0,25,96
+Matapouri,February,2025,50,Low,360,25,0.8,20,97
+Tutukaka,February,2025,55,Low,365,20,0.5,25,98
+Whananaki,February,2025,60,Medium,370,35,0.2,20,95
+Whangaruru,February,2025,55,Low,375,30,0.0,25,96
+Taipa,February,2025,50,Low,380,25,-0.2,20,97
+Mangonui,February,2025,55,Low,385,20,-0.5,25,98
+Coopers Beach,March,2025,60,Medium,390,35,-0.8,20,95
+Cable Bay,March,2025,55,Low,395,30,-1.1,25,96
+Rarawa,March,2025,50,Low,400,25,-1.4,20,97
+Pukenui,March,2025,55,Low,405,20,-1.7,25,98
+Awanui,March,2025,60,Medium,410,35,-2.0,20,95
+Herekino,March,2025,55,Low,415,30,-2.3,25,96
+Punguru,March,2025,50,Low,420,25,-2.6,20,97
+Okaihau,March,2025,55,Low,425,20,-2.9,25,98
+Ohaeawai,March,2025,60,Medium,430,35,-3.2,20,95
+Waimate North,March,2025,55,Low,435,30,-3.5,25,96
+Kawakawa,March,2025,50,Low,440,25,-3.8,20,97
+Moerewa,April,2025,55,Low,445,20,-4.1,25,98
+Matawaia,April,2025,60,Medium,450,35,-4.4,20,95
+Maromaku,April,2025,55,Low,455,30,-4.7,25,96
+Puhipuhi,April,2025,50,Low,460,25,-5.0,20,97
+Hikurangi,April,2025,55,Low,465,20,-5.3,25,98
+Glenbervie,April,2025,60,Medium,470,35,-5.6,20,95
+Ruatangata,April,2025,55,Low,475,30,-5.9,25,96
+Maungatapere,April,2025,50,Low,480,25,-6.2,20,97
+Taurikura,April,2025,55,Low,485,20,-6.5,25,98
+Parua Bay,May,2025,60,Medium,490,35,-6.8,20,95
+Pataua,May,2025,55,Low,495,30,-7.1,25,96
+Whangarei Heads,May,2025,50,Low,500,25,-7.4,20,97
+Marsden Point,May,2025,55,Low,505,20,-7.7,25,98
+One Tree Point,May,2025,60,Medium,510,35,-8.0,20,95
+Ruakaka,May,2025,55,Low,515,30,-8.3,25,96
+Waipu,May,2025,50,Low,520,25,-8.6,20,97
+Langs Beach,May,2025,55,Low,525,20,-8.9,25,98
+Mangawhai,June,2025,60,Medium,530,35,-9.2,20,95
+Wellsford,June,2025,55,Low,535,30,-9.5,25,96
+Warkworth,June,2025,50,Low,540,25,-9.8,20,97
+Orewa,June,2025,55,Low,545,20,-10.1,25,98
+Auckland,June,2025,60,Medium,550,35,-10.4,20,95
+Hamilton,June,2025,55,Low,555,30,-10.7,25,96
+Tauranga,June,2025,50,Low,560,25,-11.0,20,97
+Rotorua,June,2025,55,Low,565,20,-11.3,25,98
+Whakatane,July,2025,60,Medium,570,35,-11.6,20,95
+Gisborne,July,2025,55,Low,575,30,-11.9,25,96
+Napier,July,2025,50,Low,580,25,-12.2,20,97
+Hastings,July,2025,55,Low,585,20,-12.5,25,98
+Palmerston North,July,2025,60,Medium,590,35,-12.8,20,95
+Wellington,July,2025,55,Low,595,30,-13.1,25,96
+Nelson,July,2025,50,Low,600,25,-13.4,20,97
+Blenheim,July,2025,55,Low,605,20,-13.7,25,98
+Kaikoura,July,2025,60,Medium,610,35,-14.0,20,95
+Christchurch,July,2025,55,Low,615,30,-14.3,25,96
+Timaru,July,2025,50,Low,620,25,-14.6,20,97
+Dunedin,July,2025,55,Low,625,20,-14.9,25,98
+Queenstown,July,2025,60,Medium,630,35,-15.2,20,95
+Invercargill,July,2025,55,Low,635,30,-15.5,25,96
+Greymouth,August,2025,50,Low,640,25,-15.8,20,97
+Hokitika,August,2025,55,Low,645,20,-16.1,25,98
+Westport,August,2025,60,Medium,650,35,-16.4,20,95
+Motueka,August,2025,55,Low,655,30,-16.7,25,96
+Takaka,August,2025,50,Low,660,25,-17.0,20,97
+Murchison,August,2025,55,Low,665,20,-17.3,25,98
+Hanmer Springs,August,2025,60,Medium,670,35,-17.6,20,95
+Reefton,August,2025,55,Low,675,30,-17.9,25,96
+Kumara,August,2025,50,Low,680,25,-18.2,20,97
+Arthur's Pass,August,2025,55,Low,685,20,-18.5,25,98
+Twizel,August,2025,60,Medium,690,35,-18.8,20,95
+Tekapo,August,2025,55,Low,695,30,-19.1,25,96
+Cromwell,August,2025,50,Low,700,25,-19.4,20,97
+Wanaka,September,2025,55,Low,705,20,-19.7,25,98
+Arrowtown,September,2025,60,Medium,710,35,-20.0,20,95
+Glenorchy,September,2025,55,Low,715,30,-20.3,25,96
+Te Anau,September,2025,50,Low,720,25,-20.6,20,97
+Milford Sound,September,2025,55,Low,725,20,-20.9,25,98
+Haast,September,2025,60,Medium,730,35,-21.2,20,95
+Fox Glacier,September,2025,55,Low,735,30,-21.5,25,96
+Franz Josef,September,2025,50,Low,740,25,-21.8,20,97
+Whataroa,October,2025,55,Low,745,20,-22.1,25,98
+Harihari,October,2025,60,Medium,750,35,-22.4,20,95
+Ross,October,2025,55,Low,755,30,-22.7,25,96
+Hokitika,October,2025,50,Low,760,25,-23.0,20,97
+Greymouth,October,2025,55,Low,765,20,-23.3,25,98
+Punakaiki,October,2025,60,Medium,770,35,-23.6,20,95
+Westport,October,2025,55,Low,775,30,-23.9,25,96
+Karamea,October,2025,50,Low,780,25,-24.2,20,97
+Collingwood,October,2025,55,Low,785,20,-24.5,25,98
+Takaka,November,2025,60,Medium,790,35,-24.8,20,95
+Motueka,November,2025,55,Low,795,30,-25.1,25,96
+Nelson,November,2025,50,Low,800,25,-25.4,20,97
+Blenheim,November,2025,55,Low,805,20,-25.7,25,98
+Picton,November,2025,60,Medium,810,35,-26.0,20,95
+Havelock,November,2025,55,Low,815,30,-26.3,25,96
+Wairau Valley,November,2025,50,Low,820,25,-26.6,20,97
+St Arnaud,November,2025,55,Low,825,20,-26.9,25,98
+Murchison,December,2025,60,Medium,830,35,-27.2,20,95
+Lyell,December,2025,55,Low,835,30,-27.5,25,96
+Reefton,December,2025,50,Low,840,25,-27.8,20,97
+Greymouth,December,2025,55,Low,845,20,-28.1,25,98
+Hokitika,December,2025,60,Medium,850,35,-28.4,20,95
+Jackson Bay,December,2025,55,Low,855,30,-28.7,25,96
+Haast,December,2025,50,Low,860,25,-29.0,20,97
+Mount Aspiring National Park,December,2025,55,Low,865,20,-29.3,25,98
+Wanaka,January,2026,60,Medium,870,35,-29.6,20,95
+Queenstown,January,2026,55,Low,875,30,-29.9,25,96
+Glenorchy,January,2026,50,Low,880,25,-30.2,20,97
+Kingston,January,2026,55,Low,885,20,-30.5,25,98
+Te Anau,January,2026,60,Medium,890,35,-30.8,20,95
+Milford Sound,January,2026,55,Low,895,30,-31.1,25,96
+Manapouri,January,2026,50,Low,900,25,-31.4,20,97
+Tuatapere,January,2026,55,Low,905,20,-31.7,25,98
+Otautau,February,2026,60,Medium,910,35,-32.0,20,95
+Riverton,February,2026,55,Low,915,30,-32.3,25,96
+Invercargill,February,2026,50,Low,920,25,-32.6,20,97
+Bluff,February,2026,55,Low,925,20,-32.9,25,98
+Stewart Island,February,2026,60,Medium,930,35,-33.2,20,95
+Oban,February,2026,55,Low,935,30,-33.5,25,96
+Mossburn,February,2026,50,Low,940,25,-33.8,20,97
+Lumsden,February,2026,55,Low,945,20,-34.1,25,98
+Gore,February,2026,60,Medium,950,35,-34.4,20,95
+Clinton,March,2026,55,Low,955,30,-34.7,25,96
+Balclutha,March,2026,50,Low,960,25,-35.0,20,97
+Milton,March,2026,55,Low,965,20,-35.3,25,98
+Dunedin,March,2026,60,Medium,970,35,-35.6,20,95
+Moeraki,March,2026,55,Low,975,30,-35.9,25,96
+Oamaru,March,2026,50,Low,980,25,-36.2,20,97
+Timaru,March,2026,55,Low,985,20,-36.5,25,98
+Geraldine,March,2026,60,Medium,990,35,-36.8,20,95
+Ashburton,March,2026,55,Low,995,30,-37.1,25,96
+Christchurch,March,2026,50,Low,1000,25,-37.4,20,97
+Kaiapoi,March,2026,55,Low,1005,20,-37.7,25,98
+Rangiora,March,2026,60,Medium,1010,35,-38.0,20,95
+Amberley,March,2026,55,Low,1015,30,-38.3,25,96
+Hanmer Springs,March,2026,50,Low,1020,25,-38.6,20,97
+Waiau,March,2026,55,Low,1025,20,-38.9,25,98
+Murchison,April,2026,60,Medium,1030,35,-39.2,20,95
+Reefton,April,2026,55,Low,1035,30,-39.5,25,96
+Greymouth,April,2026,50,Low,1040,25,-39.8,20,97
+Hokitika,April,2026,55,Low,1045,20,-40.1,25,98
+Fox Glacier,April,2026,60,Medium,1050,35,-40.4,20,95
+Franz Josef,April,2026,55,Low,1055,30,-40.7,25,96
+Haast,April,2026,50,Low,1060,25,-41.0,20,97
+Jackson Bay,April,2026,55,Low,1065,20,-41.3,25,98
+Manapouri,May,2026,60,Medium,1070,35,-41.6,20,95
+Milford Sound,May,2026,55,Low,1075,30,-41.9,25,96
+Te Anau,May,2026,50,Low,1080,25,-42.2,20,97
+Glenorchy,May,2026,55,Low,1085,20,-42.5,25,98
+Queenstown,May,2026,60,Medium,1090,35,-42.8,20,95
+Cromwell,May,2026,55,Low,1095,30,-43.1,25,96
+Wanaka,May,2026,50,Low,1100,25,-43.4,20,97
+Mount Aspiring National Park,May,2026,55,Low,1105,20,-43.7,25,98
+Westport,June,2026,60,Medium,1110,35,-44.0,20,95
+Karamea,June,2026,55,Low,1115,30,-44.3,25,96
+Westport,June,2026,50,Low,1120,25,-44.6,20,97
+Greymouth,June,2026,55,Low,1125,20,-44.9,25,98
+Reefton,June,2026,60,Medium,1130,35,-45.2,20,95
+Murchison,June,2026,55,Low,1135,30,-45.5,25,96
+Nelson,June,2026,50,Low,1140,25,-45.8,20,97
+Motueka,June,2026,55,Low,1145,20,-46.1,25,98
+Takaka,July,2026,60,Medium,1150,35,-46.4,20,95
+Golden Bay,July,2026,55,Low,1155,30,-46.7,25,96
+Collingwood,July,2026,50,Low,1160,25,-47.0,20,97
+Karamea,July,2026,55,Low,1165,20,-47.3,25,98
+Westport,July,2026,60,Medium,1170,35,-47.6,20,95
+Greymouth,July,2026,55,Low,1175,30,-47.9,25,96
+Hokitika,July,2026,50,Low,1180,25,-48.2,20,97
+Fox Glacier,July,2026,55,Low,1185,20,-48.5,25,98
+Franz Josef,August,2026,60,Medium,1190,35,-48.8,20,95
+Haast,August,2026,55,Low,1195,30,-49.1,25,96
+Jackson Bay,August,2026,50,Low,1200,25,-49.4,20,97
+Wanaka,August,2026,55,Low,1205,20,-49.7,25,98
+Cromwell,August,2026,60,Medium,1210,35,-50.0,20,95
+Queenstown,August,2026,55,Low,1215,30,-50.3,25,96
+Arrowtown,August,2026,50,Low,1220,25,-50.6,20,97
+Glenorchy,September,2026,55,Low,1225,20,-50.9,25,98
+Kingston,September,2026,60,Medium,1230,35,-51.2,20,95
+Te Anau,September,2026,55,Low,1235,30,-51.5,25,96
+Milford Sound,September,2026,50,Low,1240,25,-51.8,20,97
+Manapouri,September,2026,55,Low,1245,20,-52.1,25,98
+Invercargill,September,2026,60,Medium,1250,35,-52.4,20,95
+Bluff,September,2026,55,Low,1255,30,-52.7,25,96
+Stewart Island,September,2026,50,Low,1260,25,-53.0,20,97
+Oban,September,2026,55,Low,1265,20,-53.3,25,98
+Southland,October,2026,60,Medium,1270,35,-53.6,20,95
+The Catlins,October,2026,55,Low,1275,30,-53.9,25,96
+Otago Peninsula,October,2026,50,Low,1280,25,-54.2,20,97
+Dunedin,October,2026,55,Low,1285,20,-54.5,25,98
+Moeraki,October,2026,60,Medium,1290,35,-54.8,20,95
+Oamaru,October,2026,55,Low,1295,30,-55.1,25,96
+Timaru,October,2026,50,Low,1300,25,-55.4,20,97
+Canterbury,October,2026,55,Low,1305,20,-55.7,25,98
+Arthur's Pass,November,2026,60,Medium,1310,35,-56.0,20,95
+Greymouth,November,2026,55,Low,1315,30,-56.3,25,96
+Hokitika,November,2026,50,Low,1320,25,-56.6,20,97
+Franz Josef,November,2026,55,Low,1325,20,-56.9,25,98
+Westport,November,2026,60,Medium,1330,35,-57.2,20,95
+Karamea,November,2026,55,Low,1335,30,-57.5,25,96
+Nelson,November,2026,50,Low,1340,25,-57.8,20,97
+Takaka,November,2026,55,Low,1345,20,-58.1,25,98
+Golden Bay,December,2026,60,Medium,1350,35,-58.4,20,95
+Collingwood,December,2026,55,Low,1355,30,-58.7,25,96
+Kaiapoi,December,2026,50,Low,1360,25,-59.0,20,97
+Rangiora,December,2026,55,Low,1365,20,-59.3,25,98
+Amberley,December,2026,60,Medium,1370,35,-59.6,20,95
+Hanmer Springs,December,2026,55,Low,1375,30,-59.9,25,96
+Kaikoura,December,2026,50,Low,1380,25,-60.2,20,97
+Blenheim,December,2026,55,Low,1385,20,-60.5,25,98
+Picton,December,2026,60,Medium,1390,35,-60.8,20,95
+Havelock,December,2026,55,Low,1395,30,-61.1,25,96
+Wairau Valley,December,2026,50,Low,1400,25,-61.4,20,97
+St Arnaud,December,2026,55,Low,1405,20,-61.7,25,98
+Murchison,January,2027,60,Medium,1410,35,-62.0,20,95
+Reefton,January,2027,55,Low,1415,30,-62.3,25,96
+Greymouth,January,2027,50,Low,1420,25,-62.6,20,97
+Hokitika,January,2027,55,Low,1425,20,-62.9,25,98
+Fox Glacier,January,2027,60,Medium,1430,35,-63.2,20,95
+Franz Josef,January,2027,55,Low,1435,30,-63.5,25,96
+Haast,January,2027,50,Low,1440,25,-63.8,20,97
+Jackson Bay,January,2027,55,Low,1445,20,-64.1,25,98
+Wanaka,February,2027,60,Medium,1450,35,-64.4,20,95
+Cromwell,February,2027,55,Low,1455,30,-64.7,25,96
+Queenstown,February,2027,50,Low,1460,25,-65.0,20,97
+Glenorchy,February,2027,55,Low,1465,20,-65.3,25,98
+Kingston,February,2027,60,Medium,1470,35,-65.6,20,95
+Te Anau,February,2027,55,Low,1475,30,-65.9,25,96
+Milford Sound,February,2027,50,Low,1480,25,-66.2,20,97
+Manapouri,February,2027,55,Low,1485,20,-66.5,25,98
+Invercargill,February,2027,60,Medium,1490,35,-66.8,20,95
+Bluff,February,2027,55,Low,1495,30,-67.1,25,96
+Stewart Island,February,2027,50,Low,1500,25,-67.4,20,97
+Oban,February,2027,55,Low,1505,20,-67.7,25,98
+Southland,March,2027,60,Medium,1510,35,-68.0,20,95
+The Catlins,March,2027,55,Low,1515,30,-68.3,25,96
+Otago Peninsula,March,2027,50,Low,1520,25,-68.6,20,97
+Dunedin,March,2027,55,Low,1525,20,-68.9,25,98
+Moeraki,March,2027,60,Medium,1530,35,-69.2,20,95
+Oamaru,March,2027,55,Low,1535,30,-69.5,25,96
+Timaru,March,2027,50,Low,1540,25,-69.8,20,97
+Geraldine,March,2027,55,Low,1545,20,-70.1,25,98
+Ashburton,April,2027,60,Medium,1550,35,-70.4,20,95
+Christchurch,April,2027,55,Low,1555,30,-70.7,25,96
+Kaiapoi,April,2027,50,Low,1560,25,-71.0,20,97
+Rangiora,April,2027,55,Low,1565,20,-71.3,25,98
+Amberley,April,2027,60,Medium,1570,35,-71.6,20,95
+Hanmer Springs,April,2027,55,Low,1575,30,-71.9,25,96
+Kaikoura,April,2027,50,Low,1580,25,-72.2,20,97
+Blenheim,May,2027,55,Low,1585,20,-72.5,25,98
+Picton,May,2027,60,Medium,1590,35,-72.8,20,95
+Havelock,May,2027,55,Low,1595,30,-73.1,25,96
+Wairau Valley,May,2027,50,Low,1600,25,-73.4,20,97
+St Arnaud,May,2027,55,Low,1605,20,-73.7,25,98
+Murchison,May,2027,60,Medium,1610,35,-74.0,20,95
+Reefton,June,2027,55,Low,1615,30,-74.3,25,96
+Greymouth,June,2027,50,Low,1620,25,-74.6,20,97
+Hokitika,June,2027,55,Low,1625,20,-74.9,25,98
+Fox Glacier,June,2027,60,Medium,1630,35,-75.2,20,95
+Franz Josef,June,2027,55,Low,1635,30,-75.5,25,96
+Haast,June,2027,50,Low,1640,25,-75.8,20,97
+Jackson Bay,July,2027,55,Low,1645,20,-76.1,25,98
+Wanaka,July,2027,60,Medium,1650,35,-76.4,20,95
+Cromwell,July,2027,55,Low,1655,30,-76.7,25,96
+Queenstown,July,2027,50,Low,1660,25,-77.0,20,97
+Glenorchy,August,2027,55,Low,1665,20,-77.3,25,98
+Kingston,August,2027,60,Medium,1670,35,-77.6,20,95
+Te Anau,August,2027,55,Low,1675,30,-77.9,25,96
+Milford Sound,August,2027,50,Low,1680,25,-78.2,20,97
+Manapouri,August,2027,55,Low,1685,20,-78.5,25,98
+Invercargill,September,2027,60,Medium,1690,35,-78.8,20,95
+Bluff,September,2027,55,Low,1695,30,-79.1,25,96
+Stewart Island,September,2027,50,Low,1700,25,-79.4,20,97
+Oban,September,2027,55,Low,1705,20,-79.7,25,98
+Southland,October,2027,60,Medium,1710,35,-80.0,20,95
+The Catlins,October,2027,55,Low,1715,30,-80.3,25,96
+Otago Peninsula,October,2027,50,Low,1720,25,-80.6,20,97
+Dunedin,October,2027,55,Low,1725,20,-80.9,25,98
+Moeraki,October,2027,60,Medium,1730,35,-81.2,20,95
+Oamaru,October,2027,55,Low,1735,30,-81.5,25,96
+Timaru,October,2027,50,Low,1740,25,-81.8,20,97
+Geraldine,November,2027,55,Low,1745,20,-82.1,25,98
+Ashburton,November,2027,60,Medium,1750,35,-82.4,20,95
+Christchurch,November,2027,55,Low,1755,30,-82.7,25,96
+Kaiapoi,November,2027,50,Low,1760,25,-83.0,20,97
+Rangiora,November,2027,55,Low,1765,20,-83.3,25,98
+Amberley,December,2027,60,Medium,1770,35,-83.6,20,95
+Hanmer Springs,December,2027,55,Low,1775,30,-83.9,25,96
+Kaikoura,December,2027,50,Low,1780,25,-84.2,20,97
+Blenheim,December,2027,55,Low,1785,20,-84.5,25,98
+Picton,December,2027,60,Medium,1790,35,-84.8,20,95
+Havelock,January,2028,55,Low,1795,30,-85.1,25,96
+Wairau Valley,January,2028,50,Low,1800,25,-85.4,20,97
+St Arnaud,January,2028,55,Low,1805,20,-85.7,25,98
+Murchison,February,2028,60,Medium,1810,35,-86.0,20,95
+Reefton,February,2028,55,Low,1815,30,-86.3,25,96
+Greymouth,February,2028,50,Low,1820,25,-86.6,20,97
+Hokitika,February,2028,55,Low,1825,20,-86.9,25,98
+Fox Glacier,March,2028,60,Medium,1830,35,-87.2,20,95
+Franz Josef,March,2028,55,Low,1835,30,-87.5,25,96
+Haast,March,2028,50,Low,1840,25,-87.8,20,97
+Jackson Bay,March,2028,55,Low,1845,20,-88.1,25,98
+Wanaka,March,2028,60,Medium,1850,35,-88.4,20,95
+Cromwell,March,2028,55,Low,1855,30,-88.7,25,96
+Queenstown,April,2028,50,Low,1860,25,-89.0,20,97
+Glenorchy,April,2028,55,Low,1865,20,-89.3,25,98
+Kingston,April,2028,60,Medium,1870,35,-89.6,20,95
+Te Anau,April,2028,55,Low,1875,30,-89.9,25,96
+Milford Sound,April,2028,50,Low,1880,25,-90.2,20,97
+Manapouri,April,2028,55,Low,1885,20,-90.5,25,98
+Invercargill,May,2028,60,Medium,1890,35,-90.8,20,95
+Bluff,May,2028,55,Low,1895,30,-91.1,25,96
+Stewart Island,May,2028,50,Low,1900,25,-91.4,20,97
+Oban,May,2028,55,Low,1905,20,-91.7,25,98
+Southland,June,2028,60,Medium,1910,35,-92.0,20,95
+The Catlins,June,2028,55,Low,1915,30,-92.3,25,96
+Otago Peninsula,June,2028,50,Low,1920,25,-92.6,20,97
+Dunedin,June,2028,55,Low,1925,20,-92.9,25,98
+Moeraki,June,2028,60,Medium,1930,35,-93.2,20,95
+Oamaru,June,2028,55,Low,1935,30,-93.5,25,96
+Timaru,June,2028,50,Low,1940,25,-93.8,20,97
+Geraldine,July,2028,55,Low,1945,20,-94.1,25,98
+Ashburton,July,2028,60,Medium,1950,35,-94.4,20,95
+Christchurch,July,2028,55,Low,1955,30,-94.7,25,96
+Kaiapoi,July,2028,50,Low,1960,25,-95.0,20,97
+Rangiora,July,2028,55,Low,1965,20,-95.3,25,98
+Amberley,July,2028,60,Medium,1970,35,-95.6,20,95
+Hanmer Springs,August,2028,55,Low,1975,30,-95.9,25,96
+Kaikoura,August,2028,50,Low,1980,25,-96.2,20,97
+Blenheim,August,2028,55,Low,1985,20,-96.5,25,98
+Picton,August,2028,60,Medium,1990,35,-96.8,20,95
+Havelock,August,2028,55,Low,1995,30,-97.1,25,96
+Wairau Valley,September,2028,50,Low,2000,25,-97.4,20,97
+St Arnaud,September,2028,55,Low,2005,20,-97.7,25,98
+Murchison,September,2028,60,Medium,2010,35,-98.0,20,95
+Reefton,September,2028,55,Low,2015,30,-98.3,25,96
+Greymouth,September,2028,50,Low,2020,25,-98.6,20,97
+Hokitika,September,2028,55,Low,2025,20,-98.9,25,98
+Fox Glacier,October,2028,60,Medium,2030,35,-99.2,20,95
+Franz Josef,October,2028,55,Low,2035,30,-99.5,25,96
+Haast,October,2028,50,Low,2040,25,-99.8,20,97
+Jackson Bay,October,2028,55,Low,2045,20,-100.1,25,98
+Wanaka,October,2028,60,Medium,2050,35,-100.4,20,95
+Cromwell,October,2028,55,Low,2055,30,-100.7,25,96
+Queenstown,November,2028,50,Low,2060,25,-101.0,20,97
+Glenorchy,November,2028,55,Low,2065,20,-101.3,25,98
+Kingston,November,2028,60,Medium,2070,35,-101.6,20,95
+Te Anau,November,2028,55,Low,2075,30,-101.9,25,96
+Milford Sound,November,2028,50,Low,2080,25,-102.2,20,97
+Manapouri,November,2028,55,Low,2085,20,-102.5,25,98
+Invercargill,December,2028,60,Medium,2090,35,-102.8,20,95
+Bluff,December,2028,55,Low,2095,30,-103.1,25,96
+Stewart Island,December,2028,50,Low,2100,25,-103.4,20,97
+Oban,December,2028,55,Low,2105,20,-103.7,25,98
+Southland,January,2029,60,Medium,2110,35,-104.0,20,95
+The Catlins,January,2029,55,Low,2115,30,-104.3,25,96
+Otago Peninsula,January,2029,50,Low,2120,25,-104.6,20,97
+Dunedin,January,2029,55,Low,2125,20,-104.9,25,98
+Moeraki,January,2029,60,Medium,2130,35,-105.2,20,95
+Oamaru,January,2029,55,Low,2135,30,-105.5,25,96
+Timaru,February,2029,50,Low,2140,25,-105.8,20,97
+Geraldine,February,2029,55,Low,2145,20,-106.1,25,98
+Ashburton,February,2029,60,Medium,2150,35,-106.4,20,95
+Christchurch,February,2029,55,Low,2155,30,-106.7,25,96
+Kaiapoi,February,2029,50,Low,2160,25,-107.0,20,97
+Rangiora,February,2029,55,Low,2165,20,-107.3,25,98
+Amberley,March,2029,60,Medium,2170,35,-107.6,20,95
+Hanmer Springs,March,2029,55,Low,2175,30,-107.9,25,96
+Kaikoura,March,2029,50,Low,2180,25,-108.2,20,97
+Blenheim,March,2029,55,Low,2185,20,-108.5,25,98
+Picton,March,2029,60,Medium,2190,35,-108.8,20,95
+Havelock,March,2029,55,Low,2195,30,-109.1,25,96
+Wairau Valley,April,2029,50,Low,2200,25,-109.4,20,97
+St Arnaud,April,2029,55,Low,2205,20,-109.7,25,98
+Murchison,April,2029,60,Medium,2210,35,-110.0,20,95
+Reefton,April,2029,55,Low,2215,30,-110.3,25,96
+Greymouth,April,2029,50,Low,2220,25,-110.6,20,97
+Hokitika,May,2029,55,Low,2225,20,-110.9,25,98
+Fox Glacier,May,2029,60,Medium,2230,35,-111.2,20,95
+Franz Josef,May,2029,55,Low,2235,30,-111.5,25,96
+Haast,May,2029,50,Low,2240,25,-111.8,20,97
+Jackson Bay,May,2029,55,Low,2245,20,-112.1,25,98
+Wanaka,May,2029,60,Medium,2250,35,-112.4,20,95
+Cromwell,May,2029,55,Low,2255,30,-112.7,25,96
+Queenstown,June,2029,50,Low,2260,25,-113.0,20,97
+Glenorchy,June,2029,55,Low,2265,20,-113.3,25,98
+Kingston,June,2029,60,Medium,2270,35,-113.6,20,95
+Te Anau,June,2029,55,Low,2275,30,-113.9,25,96
+Milford Sound,June,2029,50,Low,2280,25,-114.2,20,97
+Manapouri,June,2029,55,Low,2285,20,-114.5,25,98
+Invercargill,July,2029,60,Medium,2290,35,-114.8,20,95
+Bluff,July,2029,55,Low,2295,30,-115.1,25,96
+Stewart Island,July,2029,50,Low,2300,25,-115.4,20,97
+Oban,July,2029,55,Low,2305,20,-115.7,25,98
+Southland,August,2029,60,Medium,2310,35,-116.0,20,95
+The Catlins,August,2029,55,Low,2315,30,-116.3,25,96
+Otago Peninsula,August,2029,50,Low,2320,25,-116.6,20,97
+Dunedin,August,2029,55,Low,2325,20,-116.9,25,98
+Moeraki,September,2029,60,Medium,2330,35,-117.2,20,95
+Oamaru,September,2029,55,Low,2335,30,-117.5,25,96
+Timaru,September,2029,50,Low,2340,25,-117.8,20,97
+Geraldine,September,2029,55,Low,2345,20,-118.1,25,98
+Ashburton,September,2029,60,Medium,2350,35,-118.4,20,95
+Christchurch,September,2029,55,Low,2355,30,-118.7,25,96
+Kaiapoi,October,2029,50,Low,2360,25,-119.0,20,97
+Rangiora,October,2029,55,Low,2365,20,-119.3,25,98
+Amberley,October,2029,60,Medium,2370,35,-119.6,20,95
+Hanmer Springs,October,2029,55,Low,2375,30,-119.9,25,96
+Kaikoura,October,2029,50,Low,2380,25,-120.2,20,97
+Blenheim,November,2029,55,Low,2385,20,-120.5,25,98
+Picton,November,2029,60,Medium,2390,35,-120.8,20,95
+Havelock,November,2029,55,Low,2395,30,-121.1,25,96
+Wairau Valley,November,2029,50,Low,2400,25,-121.4,20,97
+St Arnaud,November,2029,55,Low,2405,20,-121.7,25,98
+Murchison,December,2029,60,Medium,2410,35,-122.0,20,95
+Reefton,December,2029,55,Low,2415,30,-122.3,25,96
+Greymouth,December,2029,50,Low,2420,25,-122.6,20,97
+Hokitika,December,2029,55,Low,2425,20,-122.9,25,98
