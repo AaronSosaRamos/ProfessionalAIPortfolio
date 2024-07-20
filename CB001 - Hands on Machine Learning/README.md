@@ -1,6 +1,6 @@
 # CB001 - Hands on Machine Learning Book Chapters
 
-This section provides a detailed overview of each chapter from the "Hands on Machine Learning" book. Each chapter is designed to build a solid foundation in Machine Learning, covering both theoretical concepts and practical implementations.
+This section provides a detailed overview of each chapter from the "Hands on Machine Learning" book. Each chapter is designed to build a solid foundation in Machine Learning, covering both theoretical concepts and practical implementations. This code is inspired in the following chapters:
 
 ## Chapter 1: Introduction to ML
 - **Overview of ML:** Provides a comprehensive introduction to Machine Learning, including its history and applications.
